@@ -188,6 +188,7 @@ ul ul{
                                                     /*FOOTER*/
 .footer__ubicacion{
     display: flex;
+    height:30px;
     position: absolute;
     bottom: 0;
     @include sizes(100%,40px);   
